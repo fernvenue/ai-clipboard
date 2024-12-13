@@ -1,5 +1,9 @@
 # AI Clipboard
 
+[![ai-clipboard](https://img.shields.io/badge/LICENSE-AGPL3%20Liscense-blue?style=flat-square)](./LICENSE)
+[![ai-clipboard](https://img.shields.io/badge/GitHub-AI%20Clipboard-blueviolet?style=flat-square&logo=github)](https://github.com/fernvenue/ai-clipboard)
+[![ai-clipboard](https://img.shields.io/badge/GitLab-AI%20Clipboard-orange?style=flat-square&logo=gitlab)](https://gitlab.com/fernvenue/ai-clipboard)
+
 Make your clipboard work with AI.
 
 ## Features
